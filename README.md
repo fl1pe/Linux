@@ -4,8 +4,12 @@ Aqui eu vou colocar tudo que estou que estou aprendendo sobre o kernel, no momen
 # Problema com saída de audio e microfone;
 Bom, ao conectar meu heaset no notebook, ele foi reconhecido ( que bom kkkk ) porém o audio não era reproduzido<br>
 a soluçao que encontrei foi instalar "pavucontrol" usando o seguinte comando:<br>
-        sudo apt install pulseaudio<br>
-        sudo apt install pavucontrol<br>
+<ol>
+	<li>sudo apt install pulseaudio</li>
+	<li>sudo apt install pavucontrol</li>
+</ol>
+	
+        
 Reinicie o sistema e abra o pavucontrol:<br>
         abra o terminal e digite<br>
         pavucontrol<hr>
