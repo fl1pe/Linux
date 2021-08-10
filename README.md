@@ -1,5 +1,5 @@
 # Distro ZorinOS
-<img src="https://assets.zorincdn.com/images/computer-mockups/old-computer/1.png">
+<img src="https://assets.zorincdn.com/images/computer-mockups/old-computer/1.png" width="400">
 Aqui eu vou colocar tudo que estou que estou aprendendo sobre o kernel, no momento tô usando a Distro ZorinOS e também algumas soluções de alguns problemas que ocorreram comigo. :)
 
 # Problema com saída de audio e microfone;
