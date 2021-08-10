@@ -8,7 +8,7 @@ a soluçao que encontrei foi instalar "pavucontrol" usando o seguinte comando:
         sudo apt install pavucontrol
 Reinicie o sistema e abra o pavucontrol:
         abra o terminal e digite
-        pavucontrol
+        pavucontrol<hr>
         
 # Instalando outra versão do Python
 a) Instalar as dependências
