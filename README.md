@@ -15,9 +15,8 @@ a) Instalar as dependências
 
 sudo apt install build-essential zlib1g-dev libjpeg-dev libncurses5-dev libgdbm-dev libnss3-dev libssl-dev libreadline-dev libffi-dev libsqlite3-dev sqlite3 liblzma-dev curl libbz2-dev
 
-b) Baixar o fonte do Python
-	disponivel em: <br>
-	<img src="https://i.imgur.com/8QB9Rls.png">
+b) <a href="https://www.python.org/downloads/">Baixar</a> o fonte do Python
+
 
 c) Descompactar o Python baixado
 
