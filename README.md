@@ -12,4 +12,4 @@ Reinicie o sistema e abra o pavucontrol:
         
         
  #teste de add imagem
-<img src="https://imgur.com/8QB9Rls">
+![img](http://i.imgur.com/yourfilename.png)
