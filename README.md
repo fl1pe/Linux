@@ -42,3 +42,8 @@ g) Verifique se foi instalado com o comando:
 	python3.x --version
 
 	pip3.x --version
+	
+ # Ver a versão do kernel<br>
+ Com o terminal aberto digite o seguinte comando:
+ 	<pre>uname -r</pre>
+ 
