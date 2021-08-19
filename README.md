@@ -18,7 +18,7 @@ Reinicie o sistema e abra o pavucontrol:<br>
 # Instalando outra versão do Python
 a) Instalar as dependências
 
-sudo apt install build-essential zlib1g-dev libjpeg-dev libncurses5-dev libgdbm-dev libnss3-dev libssl-dev libreadline-dev libffi-dev libsqlite3-dev sqlite3 liblzma-dev curl libbz2-dev
+<pre>sudo apt install build-essential zlib1g-dev libjpeg-dev libncurses5-dev libgdbm-dev libnss3-dev libssl-dev libreadline-dev libffi-dev libsqlite3-dev sqlite3 liblzma-dev curl libbz2-dev</pre>
 
 b) <a href="https://www.python.org/downloads/">Baixar</a> o fonte do Python
 
