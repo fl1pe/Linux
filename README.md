@@ -94,20 +94,20 @@ Mostra informações sobre a versão do comando e sai.<br>
 
 
 # Comandos mais utilizados:
-  <p>update - Obtém novas listas de pacotes
-  upgrade - Realiza uma atualização
-  install - Instala novos pacotes (um pacote é libc6 e não libc6.deb)
-  reinstall - Reinstalar pacotes (pkg é libc6 não libc6.deb)
-  remove - Remove pacotes
-  purge - Remove e expurga ("purge") pacotes
-  autoremove - Remove automaticamente todos os pacotes não usados
-  dist-upgrade - Atualiza a distribuição, veja apt-get(8)
-  dselect-upgrade - Segue as seleções do dselect
-  build-dep - Configura as dependências de compilação de pacotes fonte
-  satisfy - Satisfaça as dependências de strings
-  clean - Apaga arquivos baixados para instalação
-  autoclean - Apaga arquivos antigos baixados para instalação
-  check - Verifica se não há dependências quebradas
-  source - Baixa arquivos fonte
-  download - Obter o pacote binário para o directório actual
-  changelog - Obter e mostrar o changelog de um pacote</p>
+  update - Obtém novas listas de pacotes<br>
+  upgrade - Realiza uma atualização<br>
+  install - Instala novos pacotes (um pacote é libc6 e não libc6.deb)<br>
+  reinstall - Reinstalar pacotes (pkg é libc6 não libc6.deb)<br>
+  remove - Remove pacotes<br>
+  purge - Remove e expurga ("purge") pacotes<br>
+  autoremove - Remove automaticamente todos os pacotes não usados<br><br>
+  dist-upgrade - Atualiza a distribuição, veja apt-get(8)<br>
+  dselect-upgrade - Segue as seleções do dselect<br>
+  build-dep - Configura as dependências de compilação de pacotes fonte<br>
+  satisfy - Satisfaça as dependências de strings<br>
+  clean - Apaga arquivos baixados para instalação<br>
+  autoclean - Apaga arquivos antigos baixados para instalação<br>
+  check - Verifica se não há dependências quebradas<br>
+  source - Baixa arquivos fonte<br>
+  download - Obter o pacote binário para o directório actual<br>
+  changelog - Obter e mostrar o changelog de um pacote<br>
