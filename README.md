@@ -88,3 +88,26 @@ Mostra a ajuda básica do comando e sai.<br>
 <strong>–version</strong><br>
 Mostra informações sobre a versão do comando e sai.<br>
 # O DE MOVER EU TÔ COM PREGUIÇA DE COLOCAR AGORA KKKKKKKKKKKK
+
+
+
+
+
+# Comandos mais utilizados:
+  <p>update - Obtém novas listas de pacotes
+  upgrade - Realiza uma atualização
+  install - Instala novos pacotes (um pacote é libc6 e não libc6.deb)
+  reinstall - Reinstalar pacotes (pkg é libc6 não libc6.deb)
+  remove - Remove pacotes
+  purge - Remove e expurga ("purge") pacotes
+  autoremove - Remove automaticamente todos os pacotes não usados
+  dist-upgrade - Atualiza a distribuição, veja apt-get(8)
+  dselect-upgrade - Segue as seleções do dselect
+  build-dep - Configura as dependências de compilação de pacotes fonte
+  satisfy - Satisfaça as dependências de strings
+  clean - Apaga arquivos baixados para instalação
+  autoclean - Apaga arquivos antigos baixados para instalação
+  check - Verifica se não há dependências quebradas
+  source - Baixa arquivos fonte
+  download - Obter o pacote binário para o directório actual
+  changelog - Obter e mostrar o changelog de um pacote</p>
