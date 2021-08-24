@@ -94,7 +94,7 @@ Mostra informações sobre a versão do comando e sai.<br>
 
 
 # Comandos mais utilizados:
-  update - Obtém novas listas de pacotes<br>
+  <pre>update - Obtém novas listas de pacotes<br>
   upgrade - Realiza uma atualização<br>
   install - Instala novos pacotes (um pacote é libc6 e não libc6.deb)<br>
   reinstall - Reinstalar pacotes (pkg é libc6 não libc6.deb)<br>
@@ -110,4 +110,4 @@ Mostra informações sobre a versão do comando e sai.<br>
   check - Verifica se não há dependências quebradas<br>
   source - Baixa arquivos fonte<br>
   download - Obter o pacote binário para o directório actual<br>
-  changelog - Obter e mostrar o changelog de um pacote<br>
+  changelog - Obter e mostrar o changelog de um pacote<br></pre>
